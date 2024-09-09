@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  talend-remote-engine-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-09T13:09:23.55384368Z"
+    description: A Helm chart for Kubernetes
+    digest: 7f7d959a1db0592b017bd370023610343840bc9299a484b364b220969c1a2f35
+    name: talend-remote-engine-chart
+    type: application
+    urls:
+    - https://braouak.github.io/talend-helm-charts/talend-remote-engine-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-09T13:09:23.553490262Z"
